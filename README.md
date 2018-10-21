@@ -1,0 +1,2 @@
+# soundcoreA
+RTDSP application
